@@ -18,7 +18,7 @@ with open('user.json', 'r') as f:
     
 
 def change():
-    id = input('Enter you login ID: ')
+    id = input('Enter you instagram handle : ')
     password = getpass()
 
     details={}
@@ -27,3 +27,6 @@ def change():
 
     with open('user.json', 'w') as f:
         json.dump(details, f)
+
+    with open('followersList.json', 'w') as f:
+        json.dump([], f)
