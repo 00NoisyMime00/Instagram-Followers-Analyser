@@ -1,6 +1,6 @@
-# InstaBuddy
+# Instagram-Followers-Analyser
 
-InstaBuddy helps you stay away from annoying people on instagram who follow you, and once you follow them back, they unfollow you!
+Instagram-Followers-Analyser helps you stay away from annoying people on instagram who follow you, and once you follow them back, they unfollow you!
 It shows you who unfollowed you from the last time you checked and also shows the list of people you follow and who don't follow you back!
 
 ## Getting Started
